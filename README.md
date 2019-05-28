@@ -1,6 +1,6 @@
 # ToolTipControl
 
-ToolTipControl is a framework that shows a tooltip with particular information from an API.
+ToolTipControl is a framework that shows a tooltip with particular information from an API. You can see the integrated version with the an open source application [here](https://github.com/arvinq/roundandsplit)
 
 ### Usage
 1. Right-click on your root project node in the project navigator and choose Add Files.... In the file chooser, navigate and select ToolTipControl.xcodeproj. Click Add to add ToolTipControl.xcodeproj as a sub-project.
@@ -17,7 +17,7 @@ let controller = PopTip()
 ```
 6. Call showToolTip(onItem:) on your instance passing in the view that you want your tooltip to be attached to.
 ```
-controller.showToolTip(onItem: <your voew>)
+controller.showToolTip(onItem: <your view>)
 ```
 7. Present your poptip instance
 ```
@@ -31,4 +31,10 @@ This app uses this [dummy API](https://dummyapi.io/api/post?limit=1) to provide 
 ### Screenshot
 
 This screenshot was taken from an open source app [roundandsplit](https://github.com/lukhnos/roundandsplit) where this framework is implemented to show on the main view.
+
+![ToolTipControl](ToolTipControl.png)
+
+### Other Version
+
+The Application version of this framework can be seen [here](https://github.com/arvinq/PopTip).
 
