@@ -1,6 +1,6 @@
 # ToolTipControl
 
-ToolTipControl is a framework that shows a tooltip with particular information from an API. You can see the integrated version with the an open source application [here](https://github.com/arvinq/roundandsplit)
+ToolTipControl is a framework that shows a tooltip with particular information from an API. You can see the integrated version with an open source application [here](https://github.com/arvinq/roundandsplit).
 
 ### Usage
 1. Right-click on your root project node in the project navigator and choose Add Files.... In the file chooser, navigate and select ToolTipControl.xcodeproj. Click Add to add ToolTipControl.xcodeproj as a sub-project.
@@ -30,7 +30,7 @@ This app uses this [dummy API](https://dummyapi.io/api/post?limit=1) to provide 
 
 ### Screenshot
 
-This screenshot was taken from an open source app [roundandsplit](https://github.com/lukhnos/roundandsplit) where this framework is implemented to show on the main view.
+This screenshot was taken from an open source app [roundandsplit](https://github.com/arvinq/roundandsplit) where this framework is integrated to show on the main view.
 
 ![ToolTipControl](ToolTipControl.png)
 
